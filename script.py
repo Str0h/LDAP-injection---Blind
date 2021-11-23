@@ -1,7 +1,7 @@
 import requests
 
 page = 'http://challenge01.root-me.org/web-serveur/ch26/?action=dir&search='
-cookies = {'spip_session': '612488_53de6f4f4fa73447681d06c3f8627d13'}
+cookies = {'spip_session': 'YOUR_SESSION_COOKIE'}
 chars = 'abcdefghijklmnopqrstuvwxyz0123456789'
 red_chars = ''
 password = ''
